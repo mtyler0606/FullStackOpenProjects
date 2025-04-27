@@ -27,6 +27,7 @@ const App = () => {
   <div>
     <h2>{course.name}</h2>
     {course.parts.map(course => <Course course={course} key={course.id} />)}
+    <p><strong>total of {course.parts.reduce( (accumulator, current) => accumulator + current.exercises, 0)} exercises</strong></p>
   </div>
   )
   
