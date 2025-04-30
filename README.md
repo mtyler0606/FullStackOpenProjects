@@ -1,5 +1,5 @@
 # Full Stack Open Exercises
-I have been working on completing the Full Stack Open since December 2024 while also pursuing my Masters of Computer Science from Georgia Tech. The [Full Stack Open](https://fullstackopen.com/en/) is the free online course provided by the University of Helsinki that provides an overview of modern web development. In total the Full Stack Open contains 13 parts with each part being the equavilent of about 1 credit hour. I have completed parts 1-6, part 9, and about half of parts 7 and 11. I am currently completing the exercises again in this repository to refresh my skills, make some improvements, and have them all together in one repository. Afterwards, I plan to complete the rest of the exercises that I have not yet attempted.  I have linked the repositories for my original attempts of these exercises below, and my second attempts are in this repository in folders labeled by part number. 
+I have been working on completing the Full Stack Open since December 2024 while also pursuing my Masters of Computer Science from Georgia Tech. The [Full Stack Open](https://fullstackopen.com/en/) is the free online course provided by the University of Helsinki that provides an overview of modern web development. In total the Full Stack Open contains 13 parts with each part being the equavalent of about 1 credit hour. I have completed parts 1-6, part 9, and about half of parts 7 and 11. I am currently completing the exercises again in this repository to refresh my skills, make some improvements, and have them all together in one repository. Afterwards, I plan to complete the rest of the exercises that I have not yet attempted.  I have linked the repositories for my original attempts of these exercises below, and my second attempts are in this repository in folders labeled by part number. 
 
 ## Part 1 - Introduction to React
 #### Covers the basics of Javascript and React
@@ -12,7 +12,7 @@ https://github.com/mtyler0606/FullStackOpen_projects
 #### NodeJS, Express, REST, CORS, Postman, MONGODB, ESLint
 https://github.com/mtyler0606/phonebook_backend
 ## Part 4 - Testing Express servers, user administration
-#### Unit testing with Node, User adminstration, web tokens
+#### Unit testing with Node, User administration, web tokens
  https://github.com/mtyler0606/blog_list
 ## Part 5 - Testing React Apps
 #### useRef, PropTypes, more unit testing, End to end testing (Playwright)
